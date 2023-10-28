@@ -1,0 +1,2 @@
+koko=random(99)
+

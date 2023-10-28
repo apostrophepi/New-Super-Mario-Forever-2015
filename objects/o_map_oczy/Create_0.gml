@@ -1,0 +1,2 @@
+sekwencja=0
+

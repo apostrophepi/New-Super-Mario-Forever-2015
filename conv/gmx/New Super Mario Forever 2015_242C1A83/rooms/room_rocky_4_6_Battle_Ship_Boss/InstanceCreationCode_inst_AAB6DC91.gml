@@ -1,0 +1,4 @@
+boss_level=3
+end_boss_item=1
+dodaj_energie_dla_bossa=3
+accelerator_akcji=50

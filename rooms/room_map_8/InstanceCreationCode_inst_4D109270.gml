@@ -1,0 +1,2 @@
+rodzaj=5
+goto_level=room_BATTLE_Big_Hammer_1

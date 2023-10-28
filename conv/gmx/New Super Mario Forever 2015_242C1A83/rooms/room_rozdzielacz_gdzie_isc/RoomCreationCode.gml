@@ -1,0 +1,1 @@
+global.blocker_ruchow_anim=0

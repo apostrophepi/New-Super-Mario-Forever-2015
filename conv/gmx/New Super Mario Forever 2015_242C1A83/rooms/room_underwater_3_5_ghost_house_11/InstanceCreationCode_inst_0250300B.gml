@@ -1,0 +1,1 @@
+kierunek=-1

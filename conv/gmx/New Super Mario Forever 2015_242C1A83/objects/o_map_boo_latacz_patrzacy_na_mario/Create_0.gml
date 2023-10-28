@@ -1,0 +1,4 @@
+depth=-y-50-random(100)
+stream=random(231)
+kierunek=0
+

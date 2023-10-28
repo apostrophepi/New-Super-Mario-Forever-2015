@@ -1,0 +1,3 @@
+dystans_lotu_x=5
+dystans_lotu_y=5
+szybkosc_lotu=2

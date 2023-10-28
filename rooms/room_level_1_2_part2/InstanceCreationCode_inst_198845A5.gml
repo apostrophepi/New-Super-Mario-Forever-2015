@@ -1,0 +1,5 @@
+generuj_dialog=1
+tekst="Mario welcome to undergrounds. Remember sometimes in levels you can find some hidded entrances but to find them, sometimes you must try to push down button on pipes, or up button. I have heard from my friends that one of the blue pipe behind me is a hidden entrance. You must try it, meybe you will find a secret entrance with red trigger... Good Luck! "
+tekst2="Mario witam Ciebie w podziemiach! Pamiętaj, że czasami w etapach możesz znaleźć ukryte wejścia do rur. Mogą one być praktycznie w każdej rurze. Najlepszym sposobem jest wcisnąć klawisz dołu na rurach na dole, a jak rura jest u góry to podczas skoku przytrzymać klawisz do góry. A na rury boczne trzymać klawisz lewo lub prawo. Pamiętaj w tajnych przejściach znajdziesz często dużo pomocnych bonusów! Powodzonka! Aha jeszcze jedno nie wiem jak włączyć te czerwone bloczki które zaraz zobaczysz, ale zapewne znajdziesz sposób żeby je uruchomić. "
+show_pic=0
+goto_level=0

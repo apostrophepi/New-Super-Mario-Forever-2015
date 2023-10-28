@@ -1,0 +1,9 @@
+szybkosc_generowania=100
+szybkosc_random=0
+kierunek=-1
+pozycja_za_mario=0
+wysokosc_wyskoku=11
+wysokosc_wyskoku_random=0
+ixor=-0.1
+ixor_random=0
+zasieg_tworzenia=0

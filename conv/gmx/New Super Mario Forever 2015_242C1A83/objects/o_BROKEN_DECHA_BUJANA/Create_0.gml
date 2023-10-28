@@ -1,0 +1,2 @@
+bujanie=random(360)
+

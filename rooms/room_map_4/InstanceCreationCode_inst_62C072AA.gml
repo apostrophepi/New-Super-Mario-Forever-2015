@@ -1,0 +1,2 @@
+rodzaj=3
+goto_level=room_BATTLE_fire_bros_on_sand_2

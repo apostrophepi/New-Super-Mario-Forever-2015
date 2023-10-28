@@ -1,0 +1,1 @@
+kierunek_jebniecia=1

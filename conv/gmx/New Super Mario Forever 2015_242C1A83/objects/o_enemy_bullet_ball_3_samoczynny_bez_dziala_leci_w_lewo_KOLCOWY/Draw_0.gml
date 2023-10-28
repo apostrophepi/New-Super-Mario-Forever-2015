@@ -1,0 +1,2 @@
+script_enemy_bulletball_3_samoczynny2()
+

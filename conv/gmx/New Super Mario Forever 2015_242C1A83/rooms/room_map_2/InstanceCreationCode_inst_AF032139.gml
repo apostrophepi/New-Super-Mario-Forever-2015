@@ -1,0 +1,2 @@
+rodzaj=7
+goto_level=room_BATTLE_Kaktuser_1

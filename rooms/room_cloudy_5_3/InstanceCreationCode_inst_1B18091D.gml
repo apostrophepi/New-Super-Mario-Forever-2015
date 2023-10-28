@@ -1,0 +1,1 @@
+gdzie_idzie=134017

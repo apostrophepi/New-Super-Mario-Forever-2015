@@ -1,0 +1,4 @@
+boss_level=0
+end_boss_item=0
+dodaj_energie_dla_bossa=0
+accelerator_akcji=0

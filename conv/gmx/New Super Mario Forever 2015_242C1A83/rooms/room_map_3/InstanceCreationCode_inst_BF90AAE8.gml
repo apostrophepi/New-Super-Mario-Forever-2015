@@ -1,0 +1,3 @@
+rodzaj=10
+goto_level=room_underwater_3_12_Flying_Ship
+x=-10000

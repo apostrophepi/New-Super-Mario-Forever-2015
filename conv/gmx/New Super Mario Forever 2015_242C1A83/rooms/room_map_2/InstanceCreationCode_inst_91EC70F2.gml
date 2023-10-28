@@ -1,0 +1,2 @@
+rodzaj=2
+goto_level=room_BATTLE_hammerbross

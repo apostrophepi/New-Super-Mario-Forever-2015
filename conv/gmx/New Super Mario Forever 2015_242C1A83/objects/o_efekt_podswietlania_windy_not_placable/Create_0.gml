@@ -1,0 +1,2 @@
+efekt=random(360)
+

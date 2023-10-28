@@ -1,0 +1,3 @@
+dystans_lotu_x=15
+dystans_lotu_y=10
+szybkosc_lotu=1

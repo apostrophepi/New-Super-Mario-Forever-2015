@@ -1,0 +1,2 @@
+rodzaj=10
+wymaga_gwiazdek=150

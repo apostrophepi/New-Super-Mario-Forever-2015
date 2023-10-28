@@ -1,0 +1,8 @@
+image_xscale=0.75
+image_yscale=0.75
+image_angle=0
+image_alpha=1
+dzielnik=1.1
+mnoznik=0
+depth=1920000
+odleglosc_przemijania=400

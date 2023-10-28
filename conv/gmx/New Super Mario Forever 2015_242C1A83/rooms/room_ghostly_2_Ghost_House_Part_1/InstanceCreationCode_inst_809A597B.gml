@@ -1,0 +1,7 @@
+odleglosc=30
+dlugosc=8
+szybkosc=0.8
+szybkosc_dodana=0
+promien_bujania=80
+kat=180
+kat_poczatkowy=0

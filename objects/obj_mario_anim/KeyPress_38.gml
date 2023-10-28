@@ -1,0 +1,1 @@
+//strzelanie2=190

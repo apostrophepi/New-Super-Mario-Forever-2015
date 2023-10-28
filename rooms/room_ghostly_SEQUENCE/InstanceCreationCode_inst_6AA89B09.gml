@@ -1,0 +1,1 @@
+gdzie_idzie=room_ghostly_11_FlyShip

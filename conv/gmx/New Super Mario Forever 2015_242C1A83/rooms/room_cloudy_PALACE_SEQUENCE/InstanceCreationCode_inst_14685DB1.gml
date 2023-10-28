@@ -1,0 +1,1 @@
+gdzie_idzie=room_cloudy_PALACE_SHIP

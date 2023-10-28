@@ -1,0 +1,2 @@
+image_xscale=19
+image_yscale=30

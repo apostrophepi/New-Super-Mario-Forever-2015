@@ -1,0 +1,5 @@
+generuj_dialog=1
+tekst="Mario quick collect the Tanooki bonus! The Tanooki Power-up is very powerful bonus! You can change yourself into statue and be indestructible! Its easy to use! Push DOWN BUTTON + JUMP BUTTON and hold the buttons. If you want to return to Mario form, just relase buttons! One more thing you can swing tail and beat enemies by pressing FIRE BUTTON, and you can slow down the falling using JUMP BUTTON. "
+tekst2="Te chydraulik. mam dla Ciebie nowinę, zdobądź uszatego bonusa który pozwoli Ci się zmieniać w posąg. Jak już zdobędziesz strój Tanooki, wciśnij klawisz kierunku na dół i klawisz skoku - DÓŁ + SKOK, a zamienisz się w niezniszczalną statułę! Powrót do formy chydraulika wystarczy puścić klawisze! Jeszcze jedno, możesz uderzać ogonem przyciskiem FIRE, jak również spowolnić spadanie przyciskiem SKOKU podczas spadania lub skakania. "
+show_pic=0
+goto_level=0

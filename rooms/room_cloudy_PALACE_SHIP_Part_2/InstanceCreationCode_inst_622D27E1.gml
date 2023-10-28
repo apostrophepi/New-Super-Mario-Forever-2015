@@ -1,0 +1,2 @@
+idzie_do_etapu=room_cloudy_PALACE_BOSS
+depth=70000

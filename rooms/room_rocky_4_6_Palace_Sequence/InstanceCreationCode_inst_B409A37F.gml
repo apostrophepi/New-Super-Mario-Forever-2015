@@ -1,0 +1,1 @@
+gdzie_idzie=room_rocky_4_6_Battle_Ship

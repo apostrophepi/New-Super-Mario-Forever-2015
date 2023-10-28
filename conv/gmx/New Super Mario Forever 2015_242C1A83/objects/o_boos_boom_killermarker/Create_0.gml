@@ -1,0 +1,11 @@
+grawitacja=0
+sekwencja=0
+kierunek=-1
+stream=0
+rozdeptywalny=0
+kill=0
+seened=0
+
+energy=1
+niezjadywalny=1
+

@@ -1,0 +1,2 @@
+YOSTICK_USING=0
+

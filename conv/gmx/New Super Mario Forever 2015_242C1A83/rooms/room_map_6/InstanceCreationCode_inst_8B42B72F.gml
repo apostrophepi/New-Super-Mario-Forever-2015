@@ -1,0 +1,3 @@
+dlugosc=2
+kierunek_wychodzenia=270
+depth=9999999999

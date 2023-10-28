@@ -1,0 +1,1 @@
+szybkosc_strzalu=200

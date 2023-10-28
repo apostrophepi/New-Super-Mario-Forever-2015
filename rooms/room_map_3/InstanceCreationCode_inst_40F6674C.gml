@@ -1,0 +1,2 @@
+rodzaj=4
+goto_level=room_BATTLE_bummerang_bros_2

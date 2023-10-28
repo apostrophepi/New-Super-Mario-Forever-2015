@@ -1,0 +1,5 @@
+generuj_dialog=1
+tekst="Hello Mario! Welcome to cannon training bonus stage. Here you can play with the mancannon. The game is a aquite simple and fun. Get to the cannon using the down button, and use direction buttons to choose shot direction and push fire button to fire the mario from the cannon! Good luck! Remember this level can be played only once so try to collect everything from it before complete. "
+tekst2="Mario, witam Ciebie w sekretnym etapie. Poznaj nową zabawkę jaką jest grzybowe działo. Dzięki niemu możesz wystrzelić się w przestworza! Wskocz na działo, wciśnij klawisz kierunku w dół, i wyceluj się w którym chcesz kierunku używając klawiszy kierunku lewo lub prawo, aby się wystrzelić wciśnij klawisz strzału! Powodzenia Mario i miłej zabawy! Etap jest jednorazowy więc zdobądź monety zanim z niego wyjdziesz! "
+show_pic=5
+goto_level=0

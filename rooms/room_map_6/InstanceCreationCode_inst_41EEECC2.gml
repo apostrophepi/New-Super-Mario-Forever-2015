@@ -1,0 +1,3 @@
+dlugosc=2
+kierunek_wychodzenia=0
+depth=99999999999

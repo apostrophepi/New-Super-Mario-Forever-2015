@@ -1,0 +1,2 @@
+obliczator=0
+

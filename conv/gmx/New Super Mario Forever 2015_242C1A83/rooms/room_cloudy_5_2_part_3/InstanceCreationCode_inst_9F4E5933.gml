@@ -1,0 +1,1 @@
+dlugosc_roslinki=30

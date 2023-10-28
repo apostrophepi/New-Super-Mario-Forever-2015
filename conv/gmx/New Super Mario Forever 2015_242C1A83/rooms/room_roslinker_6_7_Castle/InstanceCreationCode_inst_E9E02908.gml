@@ -1,0 +1,2 @@
+idzie_do_etapu=room_roslinker_6_7_Castle_Boss
+depth=70000

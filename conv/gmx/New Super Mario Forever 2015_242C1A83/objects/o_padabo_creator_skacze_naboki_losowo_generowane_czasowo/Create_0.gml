@@ -1,0 +1,2 @@
+timer=random(200)
+

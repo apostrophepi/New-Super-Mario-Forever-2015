@@ -1,0 +1,2 @@
+rodzaj=0
+goto_level=room_battle_goomba

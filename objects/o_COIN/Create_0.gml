@@ -1,0 +1,1 @@
+kont=random(3)

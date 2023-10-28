@@ -1,0 +1,2 @@
+rodzaj=6
+goto_level=room_BATTLE_CLOUDY_lakitus_1

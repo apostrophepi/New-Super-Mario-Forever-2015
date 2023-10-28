@@ -1,0 +1,58 @@
+draw_set_blend_mode(bm_add)
+draw_sprite_ext(s_bonus_efekter,1,x+13,y+10,1.2,1.2,animowanie/10,c_white,0.4)
+draw_sprite_ext(s_bonus_efekter,1,x+13,y+10,2.2,2.2,animowanie/5+25,c_white,0.4)
+draw_sprite_ext(s_bonus_efekter,1,x+13,y+10,4.2,4.2,animowanie/20+25,c_white,0.2)
+draw_set_blend_mode(bm_normal)
+
+
+draw_sprite_ext(s_bonus_kwiatek_1,1,x+13,y+30,1+0.1*(sin(degtorad(animowanie))),1-0.1*(sin(degtorad(animowanie))),0,c_white,1)
+draw_sprite_ext(s_bonus_kwiatek_2,1,x+13,y+(sin(degtorad(animowanie)))*5,1+0.1*(sin(degtorad(animowanie))),1-0.1*(sin(degtorad(animowanie))),0,c_white,1)
+//draw_sprite_ext(s_bonus_marker,1,x,y,1,1,0,c_white,1)
+
+if global.pauza=0
+    {
+    if sounder<20 {sounder+=1}
+    if sounder=15 {sounder=100;SXMS_SFX_PlayExt(40,((x-__view_get( e__VW.XView, 0 ))/800)*255,global.glosnosc_dzwieku,-1,0,0)}
+    
+    animowanie+=5
+    
+    
+    if wylatuje=0 && place_meeting(x,y,obj_wall) {y-=1}
+    if wylatuje=0 && !place_meeting(x,y,obj_wall) {wylatuje=1}
+    
+    if wylatuje=1
+                {
+                if kierunek=-1
+                {
+                
+                if place_meeting(x,y,obj_wall) {y-=1}
+                if !place_meeting(x,y+1,obj_wall) {y+=1}
+                }
+        if kierunek=1
+            {
+           
+            if place_meeting(x,y,obj_wall) {y-=1}
+            if !place_meeting(x,y+1,obj_wall) {y+=1}
+            }
+    
+        if place_meeting(x,y,obj_wall) || place_meeting(x,y,obj_wall)
+            {
+            kierunek=kierunek*-1
+            }
+    
+    
+        if !place_meeting(x,y+1,obj_wall) {sekwencja=1}
+        if sekwencja=1 {if grawitacja<12 {grawitacja+=0.5};y+=grawitacja}
+        if sekwencja=1 && place_meeting(x,y,obj_wall) {sekwencja=2}
+        if sekwencja=2 {for (i=0;i<9;i+=1){if place_meeting(x,y,obj_wall){y-=1}}sekwencja=0;grawitacja=0}
+        }
+    
+    
+    
+    
+    }
+
+
+    
+    
+

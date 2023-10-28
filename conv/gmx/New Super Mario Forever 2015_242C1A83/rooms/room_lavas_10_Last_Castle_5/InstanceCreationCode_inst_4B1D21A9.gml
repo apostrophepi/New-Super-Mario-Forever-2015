@@ -1,0 +1,1 @@
+idzie_do_etapu=room_lavas_10_Last_Castle_6

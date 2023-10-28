@@ -1,0 +1,1 @@
+idzie_do_etapu=room_lavas_9_Lastship_exit

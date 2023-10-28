@@ -1,0 +1,7 @@
+function SXMS_CD_SetDrive(argument0) {
+	return external_call(global._SXMS_CD_SetDrive,argument0)
+
+
+
+
+}

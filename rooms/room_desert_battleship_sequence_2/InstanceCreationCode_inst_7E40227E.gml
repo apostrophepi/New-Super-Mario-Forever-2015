@@ -1,0 +1,1 @@
+gdzie_idzie=room_desert_battleship_2

@@ -1,0 +1,7 @@
+function SXMS_I_GetNumHardChan() {
+	return external_call(global._SXMS_I_GetNumHardChan)
+
+
+
+
+}
